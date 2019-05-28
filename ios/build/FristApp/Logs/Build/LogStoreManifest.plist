@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>75930B37-4364-4545-AF41-E8556F52ADA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75930B37-4364-4545-AF41-E8556F52ADA3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FristApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FristApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FristApp with scheme FristApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578850760.92690504</real>
+			<key>timeStoppedRecording</key>
+			<real>578850761.69504499</real>
+			<key>title</key>
+			<string>Building project FristApp with scheme FristApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>75930B37-4364-4545-AF41-E8556F52ADA3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
